@@ -169,6 +169,26 @@ cp .env.example .env
 ```bash
 npm run dev
 ```
+## 🔶 SneakPeak
+<p align="center">
+  Landing Page Demo
+</p>
+<p align="center">
+  <img src="Homepage.gif" alt="Landing Page" />
+</p>
+<p align="center">
+  User Dashboard | Stories | Activities | Games | Music
+</p>
+<p align="center">
+  <img src="Userdashboard.gif" alt="Landing Page" />
+</p>
+<p align="center">
+  Community | Journals | Profile | Councellor
+</p>
+<p align="center">
+  <img src="Community.gif" alt="Landing Page" />
+</p>
+
 
 ## 📝 Contributing
 
