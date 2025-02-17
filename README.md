@@ -183,7 +183,7 @@ npm run dev
 ## Parent Dashboard Demo
 
 <p align="center">
-  <img src="Homepage.gif" alt="Landing Page" />
+  <img src="Parentdashboard.gif" alt="Landing Page" />
 </p>
 
   ## Councellor Video Chat
