@@ -170,21 +170,119 @@ cp .env.example .env
 npm run dev
 ```
 ## 🔶 SneakPeak
-<p align="center">
-  Landing Page Demo
-</p>
+
+  ## Landing Page Demo
+
 <p align="center">
   <img src="Homepage.gif" alt="Landing Page" />
 </p>
+
+  ## Councellor Video Chat
+
 <div align="center">
 
-<img src="Intro.jpg" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+<img src="sc22.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
 
-<img src="Mindfull.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+<img src="sc2.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+<strong>Taking Notes during the councelling session and session request :- </strong>
+<div align="center">
+
+<img src="sc3.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc1.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
 
 </div>
 
+## User Welcome Dashboard
 
+<div align="center">
+
+<img src="sc4.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+</div>
+
+## Stories Section
+
+<div align="center">
+
+<img src="sc5.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc6.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Gratitude Section
+
+<div align="center">
+
+<img src="sc7.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc8.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Recommendation and Activities
+
+<div align="center">
+
+<img src="sc9.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc12.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Music and Podcasts Recommendation
+
+<div align="center">
+
+<img src="sc10.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc11.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Games
+
+<div align="center">
+
+<img src="sc13.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc14.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Real-time Community Chat
+
+<div align="center">
+
+<img src="sc15.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc16.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Journals
+
+<strong>Topic Suggestions and AI Recommendations</strong>
+<div align="center">
+
+<img src="sc17.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc18.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+## Profile and Exercise
+
+<div align="center">
+
+<img src="sc19.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc20.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
 ## 📝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
