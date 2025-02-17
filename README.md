@@ -180,6 +180,12 @@ npm run dev
   <img src="Homepage.gif" alt="Landing Page" />
 </p>
 
+## Parent Dashboard Demo
+
+<p align="center">
+  <img src="Homepage.gif" alt="Landing Page" />
+</p>
+
   ## Councellor Video Chat
 
 <div align="center">
