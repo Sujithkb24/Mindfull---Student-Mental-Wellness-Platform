@@ -150,8 +150,8 @@ MongoDB >= 4.0.0
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/sankalp-nadiger/MindFull.git
-cd mindful-student
+git clone https://github.com/Sujithkb24/Mindfull---Student-Mental-Wellness-Platform.git
+
 ```
 
 2. Install dependencies
