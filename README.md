@@ -59,6 +59,11 @@ MindfulStudent is an innovative digital platform that addresses the growing ment
   - Early intervention alerts
   - Resource recommendations
 
+<div style="background-color: #f8d7da; color: red; border: 1px solid #f5c6cb; padding: 15px; font-size: 1.2rem; border-radius: 5px; margin-bottom: 20px;">
+      <strong>NOTE: The Parent Mobile Number is stored in USER Database by OCR</strong>
+    </div>
+
+
 - **AI-Powered Features**
   - Sentiment analysis
   - Personalized content recommendations
@@ -79,7 +84,7 @@ MindfulStudent is an innovative digital platform that addresses the growing ment
 ### Frontend
 - React
 - Tailwind CSS
-- Gradio 
+- Gradio
 
 ### Backend
 - Node.js
