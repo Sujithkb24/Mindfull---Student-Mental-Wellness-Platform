@@ -1,6 +1,9 @@
 <div style="background-color: #f8d7da; color: red; border: 1px solid #f5c6cb; padding: 15px; font-size: 1.2rem; border-radius: 5px; margin-bottom: 20px;">
       <strong>Important:</strong> The website may take 1-2 minutes to render on initial load. We are working on further improvements for faster loading times.
     </div>
+    <div style="background-color: #f8d7da; color: red; border: 1px solid #f5c6cb; padding: 15px; font-size: 1.2rem; border-radius: 5px; margin-bottom: 20px;">
+      <strong>Important:</strong> Do visit our SneakPeak section at the end of the README for screenshots...See you there !
+    </div>
 <div align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=35&width=900&height=80&lines=🧠MindFull+Student+Mental+Wellness+Platform!"/></div>
 <p align="center">
   <img src="MindFull.png" alt="Platform Logo" width="150" height="150" />
