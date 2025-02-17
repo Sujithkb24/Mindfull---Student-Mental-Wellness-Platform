@@ -184,6 +184,7 @@ npm run dev
 <img src="sc22.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
 
 <img src="sc2.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+<img src="sc21.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
 
 </div>
 <strong>Taking Notes during the councelling session and session request :- </strong>
