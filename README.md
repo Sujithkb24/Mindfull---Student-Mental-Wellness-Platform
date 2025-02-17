@@ -176,18 +176,13 @@ npm run dev
 <p align="center">
   <img src="Homepage.gif" alt="Landing Page" />
 </p>
-<p align="center">
-  User Dashboard | Stories | Activities | Games | Music
-</p>
-<p align="center">
-  <img src="Userdashboard.gif" alt="Landing Page" />
-</p>
-<p align="center">
-  Community | Journals | Profile | Councellor
-</p>
-<p align="center">
-  <img src="Community.gif" alt="Landing Page" />
-</p>
+<div align="center">
+
+<img src="Intro.jpg" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="Mindfull.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
 
 
 ## 📝 Contributing
