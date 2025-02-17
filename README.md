@@ -227,7 +227,7 @@ npm run dev
 
 </div>
 
-## Recommendation and Activities
+## AI Recommendation and Activities
 
 <div align="center">
 
