@@ -187,6 +187,17 @@ npm run dev
   <img src="Parentdashboard.gif" alt="Landing Page" />
 </p>
 
+## Mindfull Bot
+
+<div align="center">
+
+<img src="sc24.png" alt="Left Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;"> 
+
+<img src="sc23.png" alt="Right Image" width="45%" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px; display: inline-block;">
+
+</div>
+
+
   ## Councellor Video Chat
 
 <div align="center">
