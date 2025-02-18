@@ -32,6 +32,10 @@ function Navbar() {
       console.error("Logout failed", error);
     }
   };
+
+  const handleBotClick = () => {
+    window.location.href = 'https://huggingface.co/spaces/vaibhav2154/MindFullBot';
+  };
   
 
   const toggleMenu = () => {
@@ -79,7 +83,8 @@ function Navbar() {
               <a className="mb-2 md:mb-0 md:mr-5 hover:text-gray-500" href="/video">Counsellor</a>
               <a className="mb-2 md:mb-0 md:mr-5 hover:text-gray-500" href="/Leaderboard">Leaderboard</a>
               <button
-                onClick={handleBot}
+                // onClick={handleBot}
+                onClick={handleBotClick}
                 className="inline-flex items-center gap-2 text-black bg-green-500 border-0 py-2 px-5 focus:outline-none hover:bg-green-800 hover:text-white rounded text-base"
               >
                 AI Chatbot <Bot size={24} />
